@@ -1,0 +1,57 @@
+.r1 {
+  background-color: gray;
+  margin-bottom: 10px;
+  float: left;
+}
+.r2 {
+  background-color: gray;
+  margin-bottom: 10px;
+  height: 30px;
+  text-align: center;
+}
+.r3{
+    background-color: aqua;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+}
+.r4{
+    background-color: brown;
+    margin-top: 10px;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+}
+.r5{
+    background-color: chocolate;
+    text-align: center;
+    margin-top:10px ;
+    height: 20px;
+}
+.mdiv{
+    margin-top: 10px;
+    display: flex;
+    height: 90px;
+    flex-grow: 3;
+    text-align: center;
+}
+.c1{
+    background-color: cyan;
+    flex: 30%;
+    width: 30px;
+    padding-top: 40px;
+}
+.c2{
+    background-color: coral;
+    flex: 30%;
+    padding-top: 40px;
+    width: 30px;
+    margin-left: 10px;
+}
+.c3{
+    background-color: crimson;
+    padding-top: 40px;
+    width: 30px;
+    flex: 30%;
+    margin-left: 10px;
+}
