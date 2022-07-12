@@ -1,0 +1,15 @@
+/* .column {
+  height: 300px;
+  width: 1000px;
+ 
+} */
+img{
+  width: 244px;
+  height: 200px;
+}
+
+.container {
+  height: 200px;
+  width: auto;
+  align-content: center;
+}
